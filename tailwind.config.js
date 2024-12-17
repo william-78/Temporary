@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        font: ['Epilogue', 'Jost', 'sans-serif', 'FontAwesome'], // Properly defined font-family stack
+        font:   [ "Jost",'Epilogue', 'Jost', 'sans-serif', 'FontAwesome'], // Properly defined font-family stack
       },
     },
   },
